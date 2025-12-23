@@ -1,0 +1,133 @@
+.navbar
+{
+    background-color: black;
+    padding : 3vh;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    margin-top : 0vh;
+    font-size: 2.1vh;
+}
+
+body
+{
+    margin : 0vh;
+    background-color: black;
+    font-family: 'Trebuchet MS';
+    color : white;
+    font-size: 2.3vh;
+    
+}
+
+.hero
+{
+    text-align: center;
+    font-size: 4vh;
+}
+.navbar a 
+{
+    color : white;
+    padding : 2vh;
+    text-decoration: none;
+}
+
+.navbar a:hover
+{
+    background-color : grey;
+}
+
+br
+{
+    background-color: white;
+}
+
+.line
+{
+    background-color: white;
+    height : 10px;
+}
+
+.symptoms h2
+{
+    text-align: center;
+    font-size: 5vh;
+}
+
+.symptoms
+{
+    line-height: 2;
+    padding-left: 4vh;
+}
+
+
+.faults h2
+{
+    text-align: center;
+    font-size: 5vh;
+}
+
+.faults
+{
+    line-height: 2;
+    padding-left: 4vh;
+}
+
+.hacks h2
+{
+    text-align: center;
+    font-size: 5vh;
+}
+
+.hacks
+{
+    line-height: 2;
+    padding : 4vh;
+}
+
+.time h2
+{
+    text-align: center;
+    font-size: 5vh;
+}
+
+.time
+{
+    line-height: 2;
+    padding-left: 4vh;
+}
+
+.cost h2
+{
+    text-align: center;
+    font-size: 5vh;
+}
+
+.cost
+{
+    line-height: 2;
+    padding-left: 4vh;
+}
+
+.solutions h2
+{
+    text-align: center;
+    font-size: 5vh;
+
+}
+
+.solutions
+{
+    line-height: 2;
+    padding-left: 4vh;
+}
+
+.mechanic h2
+{
+    text-align: center;
+    font-size: 5vh;
+}
+
+.mechanic
+{
+    line-height: 2;
+    padding-left : 4vh;
+}

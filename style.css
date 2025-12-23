@@ -1,0 +1,54 @@
+.navbar
+{
+    background-color: black;
+    padding : 3vh;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    margin-top : 0vh;
+    font-size: 2.1vh;
+}
+body
+{
+    background-image: url("Media/bmw-m8-gran-coupe-2560x1440-18374.jpg");
+    margin : 0vh;
+}
+
+.navbar a 
+{
+    color : white;
+    padding : 2vh;
+    text-decoration: none;
+}
+
+.navbar a:hover
+{
+    background-color : grey;
+}
+
+.Hero h1
+{
+    font-family: 'Trebuchet MS';
+    color : white;
+    text-align: center;
+    font-weight: bold;;
+    font-size: 13vh;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 1vh;
+}
+
+.Hero h1:hover
+{
+    transform: scale(1.01);
+
+}
+
+.Hero p
+{
+    font-family: arial;
+    text-align: center;
+    margin-top : 0vh;
+    font-size: 2vh;
+    color: white;
+}
+
