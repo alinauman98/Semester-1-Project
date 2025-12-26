@@ -1,0 +1,24 @@
+body
+{
+    border: 8px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap : 150px;
+    flex-wrap: wrap;
+    padding : 10vh;
+    font-family: 'Trebuchet MS';
+}
+
+.section
+{
+    height: 400px;
+    width: 400px;
+    /* background-color: blue; */
+    font-size: 40pt;
+}
+.section:hover
+{
+    transform: scale(1.01);
+    filter: drop-shadow(8px 8px 10px grey);
+}
