@@ -12,7 +12,21 @@ body
     background-image: url("Media/bmw-m8-gran-coupe-2560x1440-18374.jpg");
     margin : 0vh;
 }
-
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.11);
+  z-index: -1;
+}
+.bg-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
 .navbar a 
 {
     color : white;
