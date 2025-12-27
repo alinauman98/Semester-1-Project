@@ -38,7 +38,10 @@ body
 {
     background-color : grey;
 }
-
+.Hero
+{
+    margin-bottom: 70vh;
+}
 .Hero h1
 {
     font-family: 'Trebuchet MS';
@@ -66,3 +69,48 @@ body
     color: white;
 }
 
+.about
+{
+    background: rgba(0, 0, 0, 0.733);
+    height: 80vh;
+    width: 180vh;
+    margin-left: 10vh;
+    margin-bottom: 0;
+}
+
+.about img
+{
+    margin: 2vh;
+    margin-bottom: 0;
+
+}
+
+.about p
+{
+    font-size: 4vh;
+    font-family: 'Trebuchet MS' ;
+    margin: 2vh;
+    color : white;
+    margin-bottom: 0;
+
+}
+
+.about h1
+{
+    font-family: 'Trebuchet MS' ;
+    color : white;
+    position: relative;
+    bottom: 95%;
+    left: 50%;
+    font-size: 5vh;
+}
+
+.about h2
+{
+    font-family: 'Trebuchet MS' ;
+    color : white;
+    position: relative;
+    bottom: 95%;
+    left: 60%;
+    font-size: 5vh;
+}
